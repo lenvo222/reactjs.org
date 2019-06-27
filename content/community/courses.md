@@ -22,6 +22,8 @@ permalink: community/courses.html
 
 - [Free React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - Recordings from three days of a free online React bootcamp.
 
+- [30-days-of-react](https://www.fullstackreact.com/30-days-of-react/)-Over the next 30 days, we'll walk through everything you need to know to work with React. From the very beginning through testing and deployment of our first app.
+
 ## Paid Courses {#paid-courses}
 
 - [Egghead.io](https://egghead.io/browse/frameworks/react) - Short instructional videos on React and many other topics.
